@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chess-bishop/static/css/main.69cc36f9.chunk.css",
+    "main.css": "/chess-bishop/static/css/main.2aa7e862.chunk.css",
     "main.js": "/chess-bishop/static/js/main.24b861c3.chunk.js",
     "main.js.map": "/chess-bishop/static/js/main.24b861c3.chunk.js.map",
     "runtime-main.js": "/chess-bishop/static/js/runtime-main.25697c12.js",
@@ -10,13 +10,13 @@
     "static/js/3.732804f8.chunk.js": "/chess-bishop/static/js/3.732804f8.chunk.js",
     "static/js/3.732804f8.chunk.js.map": "/chess-bishop/static/js/3.732804f8.chunk.js.map",
     "index.html": "/chess-bishop/index.html",
-    "static/css/main.69cc36f9.chunk.css.map": "/chess-bishop/static/css/main.69cc36f9.chunk.css.map",
+    "static/css/main.2aa7e862.chunk.css.map": "/chess-bishop/static/css/main.2aa7e862.chunk.css.map",
     "static/js/2.50ebe549.chunk.js.LICENSE.txt": "/chess-bishop/static/js/2.50ebe549.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25697c12.js",
     "static/js/2.50ebe549.chunk.js",
-    "static/css/main.69cc36f9.chunk.css",
+    "static/css/main.2aa7e862.chunk.css",
     "static/js/main.24b861c3.chunk.js"
   ]
 }
